@@ -1,3 +1,3 @@
+the 3rd version(delete a line)
 this is the first line
-insert line
 this is the second line
